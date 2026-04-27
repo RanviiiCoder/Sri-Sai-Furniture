@@ -8,7 +8,7 @@
  
 **[👉 View Live Site](https://YOUR-USERNAME.github.io/sri-sai-furniture/)**
  
-> Replace `YOUR-USERNAME` with your actual GitHub username after deploying.
+
  
 ---
  
